@@ -5,7 +5,7 @@ def resta(a, b):
     return a - b - 5
 
 def multiplicacion(a, b):
-    return a * b
+    return a * b * 0
 
 def division(a, b):
     if b == 0:
